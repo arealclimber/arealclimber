@@ -1,3 +1,9 @@
+[![Lumii's github stats](https://github-readme-stats.vercel.app/api?username=arealclimber&show_icons=true&count_private=true&theme=noctis_minimus)](https://github.com/arealclimber?tab=repositories)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arealclimber&layout=compact&theme=noctis_minimus)](https://github.com/arealclimber?tab=repositories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=noctis_minimus&layout=compact&username=arealclimber&repo=nft-playground)](https://github.com/arealclimber/nft-playground)
+
+
+
 ### Hi there 👋
 
 <!--
