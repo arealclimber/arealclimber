@@ -24,5 +24,5 @@ Here are some ideas to get you started:
  -->
 
 
-<!-- [![Lumii's github stats](https://github-readme-stats.vercel.app/api?username=arealclimber&show_icons=true&count_private=true&theme=noctis_minimus)](https://github.com/arealclimber?tab=repositories)   -->
+[![Lumii's github stats](https://github-readme-stats.vercel.app/api?username=arealclimber&show_icons=true&count_private=true&theme=noctis_minimus)](https://github.com/arealclimber?tab=repositories)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arealclimber&layout=compact&theme=noctis_minimus)](https://github.com/arealclimber?tab=repositories) -->
