@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 
 [![Lumii's github stats](https://github-readme-stats.vercel.app/api?username=arealclimber&show_icons=true&count_private=true&theme=noctis_minimus)](https://github.com/arealclimber?tab=repositories)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arealclimber&count_private=true&layout=compact&theme=noctis_minimus)](https://github.com/arealclimber?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arealclimber&hide=CSS,HTML&count_private=true&layout=compact&theme=noctis_minimus)](https://github.com/arealclimber?tab=repositories)
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arealclimber&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Skills used
